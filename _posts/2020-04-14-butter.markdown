@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Butter"
+title:  "Tahdig: the magic of Butter"
 date:   2020-04-14 10:57:20 -0400
 categories:
 ---
+<figure>
+  <img alt="Tahdig or Persian Rice" src="tahdig2.jpg">
+</figure>
 
 # Butter
 
-## by Elizabeth Alexander
+by Elizabeth Alexander
 
 <blockquote cite="https://www.poetryfoundation.org/poems/52416/butter-56d230df0abef">
 <pre>
