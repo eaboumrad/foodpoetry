@@ -5,7 +5,6 @@ date:   2020-04-22 16:12:00 -0400
 categories:
 ---
 
-<!DOCTYPE html>
 <html lang = "en-US">
         <figure>
              <img alt="Tahdig" src="tahdig.jpg">
@@ -40,5 +39,32 @@ categories:
             historical revision, despite
             our parent’s efforts, glowing from the inside
             out, one hundred megawatts of butter.</pre><blockquote>
-    </body>
-</html>
+
+# Tahdig (Persian Rice)
+
+## Ingredients
+
++ 2 cups basmati rice
++ 1/2 cup kosher salt
++ 3 tbsp yogurt
++ 3 tbsp salted butter
++ 3 tbsp extra virgin olive oil
++ Turmeric (optional for color and aroma)
+
+## How to:
+
+1. Bring 6 cups of water, 1/2 cup of salt, and some turmeric to a boil.
+
+2. Rinse the rice (2 cups) and cook for 6-8 mins. Drain and rinse with cold water.
+
+3. Combine 1 1/2 cups of boiled rice with the yogurt.
+
+4. Melt the 3 tbsp of oil and 3 tbsp of butter in a non-stick pan. Add the rice you have mixed with the yogurt and level it with a spoon. Pile the remaining rice in the pan, mounding it toward the center.
+
+5. Dig 5-6 holes into the rice with the handle of a wooden spoon. This will let the steam out so the rice becomes crunchy.
+
+6. Cook the rice over medium heat, rotating the pan a quarter turn every 5 minutes for even browning. Cook until your start to see a golden crust begin to form at the sides of the pan, about 15 mins.
+
+7. Reduce the heat to low and continue cooking another 15 to 20 minutes. The edges of the crust should be golden. Turn off the heat. 
+
+8. Carefully place a big plate on top of the non-stick pan and flip the pan. Enjoy your Tahdig!
