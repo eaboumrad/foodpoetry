@@ -3,14 +3,17 @@ layout: post
 title:  "Tahdig, or the Magic of Butter"
 date:   2020-04-14 10:57:20 -0400
 categories:
-poem: |
-Butter
+---
+# Butter
 
 by Elizabeth Alexander
 
 My mother loves butter more than I do,
+
 more than anyone. She pulls chunks off
+
 the stick and eats it plain, explaining
+
 cream spun around into butter! Growing up
 we ate turkey cutlets sauteed in lemon
 and butter, butter and cheese on green noodles,
@@ -33,8 +36,6 @@ Mumbo and Jumbo’s children despite
 historical revision, despite
 our parent’s efforts, glowing from the inside
 out, one hundred megawatts of butter.
----
-
 ![Tahdig](tahdig2.jpg)
 
 # Tahdig (Persian Rice)
