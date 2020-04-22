@@ -22,7 +22,7 @@ github_username:  eaboumrad
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: minima
 gems:
   - jekyll-feed
 exclude:
