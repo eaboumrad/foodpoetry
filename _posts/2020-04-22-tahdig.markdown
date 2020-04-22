@@ -7,36 +7,10 @@ categories:
 
 <!DOCTYPE html>
 <html lang = "en-US">
-    <head>
-        <link rel=stylesheet type="text/css" href="style1.css">
-        <title>Elena's Food Poetry</title>
-        <meta charset = "UTF-8">
-        <meta name="description" content="a blog about food and poetry">
-        <meta name="keywords" content="food, poetry, blog, recipes">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="author" content="Elena Abou Mrad">
-    </head>
-
-    <body>
-        <nav>
-            <a href="recipes.html">Home</a>
-            <a href="conversions.html" target="_blank">Conversions</a>
-            <a href=about.html>About</a>
-            <a href=contact.html>Contact</a>
-        </nav>
-        <h1>Elena's Food Poetry</h1>
-        <p>My personal guide to eat like you read</p>
         <figure>
-             <img alt="Little Elena cutting zucchini" src="zucchini.jpg">
+             <img alt="Tahdig" src="tahdig.jpg">
         </figure>
        <hr>
-        <h2><a href = "https://www.mamaslebanesekitchen.com/" 
-            target="_blank">Lebanese Food &#128151</a></h2>
-        <ul>
-            <li>Falafel</li>
-            <li>Hummus</li>
-            <li>Kibbeh</li>
-        </ul>
         <h2 id="h01">Butter</h2>
         <b>By Elizabeth Alexander</b>
         <blockquote cite="https://www.poetryfoundation.org/poems/52416/butter-56d230df0abef">
