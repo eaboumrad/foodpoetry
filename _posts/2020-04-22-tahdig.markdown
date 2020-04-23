@@ -41,7 +41,6 @@ categories:
 <h1>Tahdig (Persian Rice)</h1>
 
 <h2>Ingredients</h2>
-
 <ul>
     <li>2 cups basmati rice</li>
     <li>1/2 cup kosher salt</li>
@@ -52,7 +51,6 @@ categories:
 </ul>
 
 <h2>Preparation:</h2>
-
 <ol>
     <li>Bring 6 cups of water, 1/2 cup of salt, and some turmeric to a boil.</li>
     <li>Rinse the rice (2 cups) and cook for 6-8 mins. Drain and rinse with cold water.</li>
