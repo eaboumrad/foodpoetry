@@ -35,8 +35,7 @@ categories:
             Mumbo and Jumbo’s children despite   
             historical revision, despite
             our parent’s efforts, glowing from the inside
-            out, one hundred megawatts of butter.
-            
+            out, one hundred megawatts of butter.   
 </pre><blockquote>
 
 <h1>Tahdig (Persian Rice)</h1>
@@ -64,5 +63,6 @@ categories:
     <li>Reduce the heat to low and continue cooking another 15 to 20 minutes. The edges of the crust should be golden. Turn off the heat.</li>
     <li>Carefully place a big plate on top of the non-stick pan and flip the pan. Enjoy your Tahdig!</li>
 </ol>
+
 </body>
 </html>
