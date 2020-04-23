@@ -7,8 +7,7 @@ categories:
 
 <html lang = "en-US">
 <body>
-       <hr>
-        <h2 id="h01">Ode to the Lemon</h2>
+    <h2 id="h01">Ode to the Lemon</h2>
         <b>By Pablo Neruda</b>
         <blockquote cite="http://famouspoetsandpoems.com/poets/pablo_neruda/poems/15734">
         <pre>

@@ -6,10 +6,7 @@ categories:
 ---
 
 <html lang = "en-US">
-        <figure>
-             <img alt="Tahdig" src="tahdig.jpg">
-        </figure>
-       <hr>
+<body>
         <h2 id="h01">Butter</h2>
         <b>By Elizabeth Alexander</b>
         <blockquote cite="https://www.poetryfoundation.org/poems/52416/butter-56d230df0abef">
@@ -66,3 +63,6 @@ categories:
     <li>Cook the rice over medium heat, rotating the pan a quarter turn every 5 minutes for even browning. Cook until your start to see a golden crust begin to form at the sides of the pan, about 15 mins.</li>
     <li>Reduce the heat to low and continue cooking another 15 to 20 minutes. The edges of the crust should be golden. Turn off the heat.</li>
     <li>Carefully place a big plate on top of the non-stick pan and flip the pan. Enjoy your Tahdig!</li>
+</ol>
+</body>
+</html>
