@@ -6,9 +6,7 @@ categories:
 ---
 
 <html lang = "en-US">
-        <figure>
-             <img alt="Tahdig" src="tahdig.jpg">
-        </figure>
+<body>
        <hr>
         <h2 id="h01">Ode to the Lemon</h2>
         <b>By Pablo Neruda</b>
@@ -126,3 +124,5 @@ categories:
     <li>Use leftover dough for decorations or cookies.</li>
     <li>Bake at 340° F for 1 hour.</li>
 </ol>
+</body>
+</html>
