@@ -51,7 +51,7 @@ categories:
     <li>Turmeric (optional for color and aroma)</li>
 </ul>
 
-<h2>How to:</h2>
+<h2>Preparation:</h2>
 
 <ol>
     <li>Bring 6 cups of water, 1/2 cup of salt, and some turmeric to a boil.</li>
