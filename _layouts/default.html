@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  <!-- This pulls in the info in the head.html file in the _includes directory -->
+  <!-- It connects the site to the CSS and does a few other things-->
+  {%- include head.html -%}
+
+  <body>
+
+    <!-- The banner at the top, displays the title and you could put  a navbar in there -->
+    {%- include header.html -%}
+
+
+    <!-- The line below the "main" bit) makes it so you can style the main part of each page -->
+    <!-- independent of any other part. So you could -->
+    <!-- do, for example, main {background-color:green;} in your CSS -->
+    <!-- or do .page-content {background-color:green;} -->
+    <main class="page-content" aria-label="Content">
+        {{ content }}
+    </main>
+
+    <!-- This pulls in the footer from the includes folder-->
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -1,0 +1,7 @@
+
+/* I only put one rule in here so it wouldn't be empty. */
+/* This rule gives the site the left and right margins. */
+
+body {
+    margin: 0 10% 0 10%;
+}
