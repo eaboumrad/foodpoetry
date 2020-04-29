@@ -6,13 +6,6 @@ body {
     margin: 5% 10% 0 10%;
     background-color: seashell;
 }
-nav a {
-    margin right: 10%;
-    border: solid;
-    background-color: orange;
-    color: white;
-    padding: 20px;
-}
 h1, h2, h3{
     font-size:10vw;
     color: orange;
