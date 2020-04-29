@@ -19,7 +19,22 @@ My blog *Food Poetry* is built using responsive design and is mobile friendly on
 
 ## Accessibility: Designing and Testing
 
-https://www.w3.org/WAI/fundamentals/accessibility-principles/
+I decided to design my website in HTML and CSS, to make sure that it would work:
+
+* On old browsers
+* With screen readers
+* With a slow connection
+
+The second step towards an accessible website was consulting the [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) enunciated by the [WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/). These principles guided me in a series of edits:
+
+1. I made sure that the Language in the posts was set to English, so that screen readers could recognize the text more easily.
+
+2. I removed abbreviations for clarity: for example, I changed "tbsp" to "tablespoon".
+
+* Test accessibility for screen reader
+* Add Navigation Bar with Home, Contacts, About
+* Insert alt text for images
+
 
 [Standford guide for accessibility testing](https://soap.stanford.edu/tips/screen-reader-testing)
 

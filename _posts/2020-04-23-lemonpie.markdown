@@ -77,21 +77,21 @@ categories:
 
 <h3>For the Pie Crust</h3>
 <ul>
-    <li>190 gr of 00 Flour</li>
-    <li>75 gr of confectioner's sugar</li>
+    <li>190 grams of 00 Flour</li>
+    <li>75 grams of confectioner's sugar</li>
     <li>lemon zest from 1 lemon</li>
     <li>2 egg yolks</li>
-    <li>95 gr of cold butter</li>
+    <li>95 grams of cold butter</li>
     <li>1 pinch of salt</li>
 </ul>
 
 <h3>For the Lemon Cream</h3>
 <ul>
     <li>4 egg yolks</li>
-    <li>100 gr of sugar</li>
-    <li>35 gr of flour</li>
-    <li>500 ml of whole milk</li>
-    <li>2 tbsp of Lemon Juice</li>
+    <li>100 grams of sugar</li>
+    <li>35 grams of flour</li>
+    <li>500 milliliters of whole milk</li>
+    <li>2 tablespoons of Lemon Juice</li>
     <li>Lemon zest from 2 lemons</li>
 </ul>
 
@@ -102,13 +102,13 @@ categories:
     <li>Place flour, salt and the cold butter into a food processor and pulse until the dough looks like sand.</li>
     <li>Place it in a bowl with the confectioner's sugar and the egg yolks</li>
     <li>Knead briefly until mixed.</li>
-    <li>Wrap the dough in plastic wrap and let it rest in the fridge for 1 hour.</li>
+    <li>Wrap the dough in plastic wrap and let it rest in the fridge for one hour.</li>
 </ol>
 
 <h3>The Lemon Cream</h3>
 <ol>
     <li>In a saucer pot, mix the egg yolks with the sugar, then add the flour and the lemon juice. Mix with a whisker.</li>
-    <li>In another pot, add the zest from 2 lemons to 500 ml of milk and bring to a boil.</li>
+    <li>In another pot, add the zest from 2 lemons to 500 milliliters of milk and bring to a boil.</li>
     <li>Add the hot milk to the egg mix a little at a time, mixing well to avoid lumps.</li>
     <li>Bring the mixture to a boil, mixing constantly with the whisker. Remove from fire when the cream starts bubbling and becomes denser.</li>
     <li>Transfer to a container and cover with plastic wrap. Let it rest on the counter</li>
