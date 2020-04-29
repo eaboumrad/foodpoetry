@@ -18,11 +18,3 @@ img {
 #h01{
     color: orange;
 }
-.left,.right {
-    float: left;
-    width: 20%;
-}
-.main {
-    float: left;
-    width: 60%;
-}
