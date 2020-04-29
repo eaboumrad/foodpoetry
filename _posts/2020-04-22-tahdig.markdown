@@ -6,7 +6,7 @@ categories:
 ---
 
 <html lang = "en-US">
-<body>
+<body background-color: yellow>
         <figure>
              <img alt="Tahdig" src= "{{'_posts/tahdig.jpg' | relative_url}}">
         </figure>
