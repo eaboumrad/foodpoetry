@@ -12,10 +12,17 @@ My final project [*Food Poetry*](https://eaboumrad.github.io/foodpoetry/) is a r
 Food is a complex cultural phenomenon and it can evoke feelings and memories in everyone of us. Poetry can often feel inaccessible, but there are plenty of writers who expressed their love of food in verse. Therefore, I decided to pair every recipe with a poem for a double purpose. On the one hand, the website makes poetry - which is often considered an elite literary form - accessible because the subject is something everyone can relate to: food. On the other hand, the poem that opens the post places the recipes under a new light, which elevates the food to something more than a household chore.
 During the COVID-19 epidemic, many people are spending their free time cooking and reading. Therefore, I though that Food Poetry could be a good resource for the ones who, like me, are stuck at home during quarantine.
 
-## Responsive Design and Mobile Compatibility
+## Responsive Design and Mobile Friendliness
+
+According to the Pew Research Center's survey *Mobile Technology and Home Broadband 2019* [^1], 37% of US adults say they mostly use a smartphone when accessing the internet. People are using the internet with all sorts of devices, so websites need to adapt to different browsers and screens.
+My blog *Food Poetry* is built using responsive design and is mobile friendly on iPhone and Android.
 
 ## Accessibility: Designing and Testing
+
+https://www.w3.org/WAI/fundamentals/accessibility-principles/
 
 [Standford guide for accessibility testing](https://soap.stanford.edu/tips/screen-reader-testing)
 
 [NVDA Guide](https://webaim.org/articles/nvda/)
+
+[^1]: (Anderson, Monica. “Mobile Technology and Home Broadband 2019.” Pew Research Center: Internet, Science & Tech, 13 June 2019, https://www.pewresearch.org/internet/2019/06/13/mobile-technology-and-home-broadband-2019/.)
