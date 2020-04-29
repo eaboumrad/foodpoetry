@@ -6,9 +6,9 @@ categories:
 ---
 
 <html lang = "en-US">
-<body background-color: yellow>
+<body>
         <figure>
-             <img alt="Tahdig" src= "{{'_posts/tahdig.jpg' | relative_url}}">
+             <img alt="Tahdig" src= "{{'_img/tahdig.jpg' | relative_url}}">
         </figure>
         <h2 id="h01">Butter</h2>
         <b>By Elizabeth Alexander</b>
