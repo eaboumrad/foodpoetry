@@ -8,7 +8,7 @@ categories:
 <html lang = "en-US">
 <body>
         <figure>
-             <img alt="Tahdig" src= "{{site.url}}/assets/img/tahdig.jpg">
+             <img alt="Tahdig" src= "/img/tahdig.jpg">
         </figure>
         <h2 id="h01">Butter</h2>
         <b>By Elizabeth Alexander</b>
