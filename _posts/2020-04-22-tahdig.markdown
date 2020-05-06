@@ -8,7 +8,7 @@ categories:
 <html lang = "en-US">
 <body>
         <figure>
-             <img alt="Tahdig" src= "./tahdig.jpg">
+             <img alt="Tahdig" src= "https://github.com/eaboumrad/foodpoetry/raw/gh-pages/_assets/_img/tahdig.jpg">
         </figure>
         <h2 id="h01">Butter</h2>
         <b>By Elizabeth Alexander</b>
