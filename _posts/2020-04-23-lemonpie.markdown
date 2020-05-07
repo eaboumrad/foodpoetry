@@ -72,7 +72,9 @@ categories:
  </blockquote>
 
 <h1>Crostata al Limone: Italian Lemon Pie</h1>
-
+    <figure>
+        <img alt="A slice of Lemon Pie on a Plate with Strawberries." src= "https://github.com/eaboumrad/foodpoetry/raw/gh-pages/_assets/_img/lemonpie.jpg">
+    </figure>
 <h2>Ingredients</h2>
 
 <h3>For the Pie Crust</h3>
