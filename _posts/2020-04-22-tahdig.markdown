@@ -7,9 +7,6 @@ categories:
 
 <html lang = "en-US">
 <body>
-        <figure>
-             <img alt="Tahdig, or Persian Crispy Rice" src= "https://github.com/eaboumrad/foodpoetry/raw/gh-pages/_assets/_img/tahdig.jpg">
-        </figure>
         <h2 id="h01">Butter</h2>
         <b>By Elizabeth Alexander</b>
         <blockquote cite="https://www.poetryfoundation.org/poems/52416/butter-56d230df0abef">
@@ -43,7 +40,9 @@ categories:
 </blockquote>
 
 <h1>Tahdig (Persian Rice)</h1>
-
+    <figure>
+        <img alt="Tahdig, or Persian Crispy Rice" src= "https://github.com/eaboumrad/foodpoetry/raw/gh-pages/_assets/_img/tahdig.jpg">
+    </figure>
 <h2>Ingredients</h2>
 <ul>
     <li>2 cups basmati rice</li>
