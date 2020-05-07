@@ -29,11 +29,15 @@ The second step towards an accessible website was consulting the [Accessibility 
 
 1. I made sure that the Language in the posts was set to English, so that screen readers could recognize the text more easily.
 
-2. I removed abbreviations for clarity: for example, I changed "tbsp" to "tablespoon".
+2. I removed abbreviations for clarity: for example, I changed "tbsp" to "tablespoon" and repeated the measurements in the recipe so that the reader doesn't have to go back and forth. This is a trick I learned from an episode of the podcast [The Sporkful](http://www.sporkful.com/) entitled [*The Art - and Joy - of Recipe Writing*](http://www.sporkful.com/the-art-and-joy-of-recipe-writing/), where the host interviews Chandra Ram, an expert in recipe books. This is an example of how universal design help everyone.
+
+3. I inserted alt text for my images.
+
+4. I added a Navigation Bar with Home, 
 
 * Test accessibility for screen reader
-* Add Navigation Bar with Home, Contacts, About
-* Insert alt text for images
+* Add Contacts, About
+
 
 
 [Standford guide for accessibility testing](https://soap.stanford.edu/tips/screen-reader-testing)
