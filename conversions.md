@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!DOCTYPE html>
 <html lang ="eng-US">
     <body>
 
