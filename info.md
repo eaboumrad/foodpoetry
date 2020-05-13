@@ -20,3 +20,4 @@ layout: default
 <p>Food Poetry is my final project for Prof. Patrick Smyth's Software Development Lab, Spring 2020 at CUNY Graduate Center.</p>
 
 </body>
+</html>
