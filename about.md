@@ -25,22 +25,19 @@ I decided to design my website in HTML and CSS, to make sure that it would work:
 * With screen readers
 * With a slow connection
 
-The second step towards an accessible website was consulting the [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) enunciated by the [WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/). These principles guided me in a series of edits:
+The second step towards an accessible website was consulting the [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) enunciated by the [WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/) and the [Standford guide for accessibility testing](https://soap.stanford.edu/tips/screen-reader-testing). These sets of principles guided me in a series of edits:
 
 1. I made sure that the Language in the posts was set to English, so that screen readers could recognize the text more easily.
 
-2. I removed abbreviations for clarity: for example, I changed "tbsp" to "tablespoon" and repeated the measurements in the recipe so that the reader doesn't have to go back and forth. This is a trick I learned from an episode of the podcast [The Sporkful](http://www.sporkful.com/) entitled [*The Art - and Joy - of Recipe Writing*](http://www.sporkful.com/the-art-and-joy-of-recipe-writing/), where the host interviews Chandra Ram, an expert in recipe books. This is an example of how universal design help everyone.
+2. I removed abbreviations for clarity: for example, I changed "tbsp" to "tablespoon"
 
-3. I inserted alt text for all my images.
+3. I repeated the measurements in the recipe so that the reader doesn't have to go back and forth. This is a trick I learned from an episode of the podcast [The Sporkful](http://www.sporkful.com/) entitled [*The Art - and Joy - of Recipe Writing*](http://www.sporkful.com/the-art-and-joy-of-recipe-writing/), where the host interviews Chandra Ram, an expert in recipe books. This is an example of how universal design help everyone.
 
-4. I added a Navigation Bar with Home, Conversions, and About buttons
+4. I inserted alt text for all my images.
 
-* Test accessibility for screen reader
+5. I added a Navigation Bar with Home, Conversions, and About buttons
 
+6. I installed [NVDA](https://webaim.org/articles/nvda/) on my PC and tested if I could navigate and read my website with a screen reader.
 
-
-[Standford guide for accessibility testing](https://soap.stanford.edu/tips/screen-reader-testing)
-
-[NVDA Guide](https://webaim.org/articles/nvda/)
 
 [^1]: (Anderson, Monica. “Mobile Technology and Home Broadband 2019.” Pew Research Center: Internet, Science & Tech, 13 June 2019, https://www.pewresearch.org/internet/2019/06/13/mobile-technology-and-home-broadband-2019/.)
