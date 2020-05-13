@@ -16,7 +16,7 @@ author: Elena Aboumrad
 email: elena.odette.aboumrad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  A blog about food poetry: recipes and poems that express our love of food.
-baseurl: "/foodpoetry" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  eaboumrad
