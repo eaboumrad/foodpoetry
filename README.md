@@ -13,7 +13,7 @@ Click [here](https://eaboumrad.github.io/foodpoetry/) or paste this URL in your 
 You can open Food Poetry on any browser or device. The website is built with responsive design and is accessible for screen readers.
 
 ## Usage
-The user can navigate the website to read the blog posts. A navigation bar allows the user to be redirected to the Homepage or to consult a table of conversions for US and metric measurements.
+The user can navigate the website to read the blog posts. A navigation bar allows the user to go back to the Homepage, read the About section, or consult a table of conversions for US and metric measurements.
 
 
 
