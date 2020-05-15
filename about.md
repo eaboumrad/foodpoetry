@@ -39,5 +39,11 @@ The second step towards an accessible website was consulting the [Accessibility 
 
 6. I installed [NVDA](https://webaim.org/articles/nvda/) on my PC and tested if I could navigate and read my website with a screen reader.
 
+## My experience
+
+This is the first website I ever made, and I was surprised at how relatively easy it was. Before taking this class, I thought that coding was something obscure and not accessible to me. Now, I know that with a lot of practice and a lot of online tutorials I can learn how to code in different languages, according to the project I'm working on.
+
+
+
 
 [^1]: (Anderson, Monica. “Mobile Technology and Home Broadband 2019.” Pew Research Center: Internet, Science & Tech, 13 June 2019, https://www.pewresearch.org/internet/2019/06/13/mobile-technology-and-home-broadband-2019/.)

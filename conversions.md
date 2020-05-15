@@ -31,5 +31,3 @@ layout: default
             <td>28.35 grams</td>
         </tr>
 </table>
-</body>
-</html>
