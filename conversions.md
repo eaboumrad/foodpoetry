@@ -13,12 +13,23 @@ layout: default
             <th>Metric System</th>
         </tr>
         <tr>
-            <td>1 tbsp</td>
-            <td>14.78 ml</td>
+            <td>1 teaspoon</td>
+            <td>4.93 milliliters</td>
+        <tr>
+            <td>1 tablespoon</td>
+            <td>14.78 milliliters</td>
         </tr>
         <tr>
             <td>1 cup</td>
-            <td>240 ml</td>
+            <td>240 milliliters</td>
+        </tr>
+        <tr>
+            <td>1 pound</td>
+            <td>453.592 grams</td>
+        </tr>
+        <tr>
+            <td>1 ounce</td>
+            <td>28.35 grams</td>
         </tr>
 </table>
     </body>
