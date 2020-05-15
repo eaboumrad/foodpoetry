@@ -4,7 +4,7 @@ author: Elena Abou Mrad
 date: April 29, 2020
 ---
 
-# Food Poetry: a blog of recipes and poems that express our love of food.
+# Food Poetry: a blog of recipes and poems
 
 My final project [*Food Poetry*](https://eaboumrad.github.io/foodpoetry/) is a recipe blog with a twist. Every post represents a recipe, but it also contains a poem about one of the ingredients. I built this website with Jekyll and GitHub Pages, and wrote my posts in HTML and CSS.
 
