@@ -30,4 +30,3 @@ layout: default
             <td>1 ounce</td>
             <td>28.35 grams</td>
         </tr>
-</table>
