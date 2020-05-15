@@ -3,7 +3,7 @@ layout: default
 ---
 
 <html lang ="eng-US">
-    <body>
+<body>
 
 <h1>Conversions</h1>
 <p>Here's how to deal with tricky measurements</p>
@@ -32,5 +32,5 @@ layout: default
             <td>28.35 grams</td>
         </tr>
 </table>
-    </body>
+</body>
 </html>
